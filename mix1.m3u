@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/1.png",Первый канал
+http://tv.ttk.mx:9093
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/2.png",Россия 1
+http://tv.ttk.mx:9075
+
+#EXTINF:-1 tvg-logo="https://yootv.host/icons/kvn-tv.png",КВН ТВ
+http://158.101.222.193:88/georgia_play.php?id=kvntv
+#EXTINF:-1 tvg-logo="https://yootv.host/icons/che.png",Че
+http://tv.ttk.mx:9141
+#EXTINF:-1 tvg-logo="https://yootv.host/icons/sts_love.png",СТС Love
+http://tv.ttk.mx:9104
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/11.png",РЕН ТВ
+http://tv.ttk.mx:9010
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/13.png",СТС 
+http://tv.ttk.mx:9012
+
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/19.png",ТНТ
+http://tv.ttk.mx:9128
+#EXTINF:-1 tvg-logo="https://yootv.host/icons/tnt4.png",ТНТ4
+http://tv.ttk.mx:9098
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/5.png",Пятый Канал
+http://tv.ttk.mx:9004
+#EXTINF:-1 tvg-logo="https://yootv.host/icons/sarafan.png",Сарафан ТВ
+http://tv.ttk.mx:9044
+#EXTINF:-1 tvg-logo="https://yootv.host/icons/voprosi_i_otveti.png",Вопросы и ответы
+http://tv.ttk.mx:9038
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/16.png",Пятница
+http://tv.ttk.mx:9015
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/17.png",Звезда
+http://tv.ttk.mx:9016
+#EXTINF:-1,Суббота!
+http://tv.ttk.mx:9105
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/4.png",НТВ
+http://tv.ttk.mx:9127
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/14.png",Домашний
+http://tv.ttk.mx:9013
+
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/15.png",ТВ-3
+http://tv.ttk.mx:9014
+
+#EXTGRP:КИНО
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/42.png",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+#EXTINF:-1 tvg-logo="https://yootv.host/icons/komedia-tv.png",Комедия
+http://tv.ttk.mx:9050
+#EXTINF:-1,Русский детектив
+http://tv.ttk.mx:9051
+#EXTINF:-1,Кино ТВ
+http://tv.ttk.mx:9046
+#EXTINF:-1,Кинопоказ
+http://tv.ttk.mx:9150
+#EXTINF:-1,Русский иллюзион
+http://tv.ttk.mx:9027
+#EXTINF:-1,Иллюзион+
+http://tv.ttk.mx:9028
+#EXTINF:-1,Еврокино
+http://tv.ttk.mx:9030
+#EXTINF:-1,Русский бестселлер
+http://tv.ttk.mx:9043
+#EXTINF:-1,Русский роман
+http://tv.ttk.mx:9042
+#EXTINF:-1,Настоящее страшное телевидение
+http://tv.ttk.mx:9057
+#EXTINF:-1,TV XXI
+http://tv.ttk.mx:9067
+#EXTINF:-1,Cinema
+http://tv.ttk.mx:9053
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/35.png",Победа
+http://tv.ttk.mx:9149
+#EXTINF:-1,Киносемья
+http://tv.ttk.mx:9161
+#EXTINF:-1,Кинопремьера
+http://tv.ttk.mx:9162
+#EXTINF:-1,Кинохит
+http://tv.ttk.mx:9163
+#EXTINF:-1,Киносвидание
+http://tv.ttk.mx:9164
+#EXTINF:-1,Мужское кино
+http://tv.ttk.mx:9165
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/киноужас100х100-2-1.png",Киноужас
+http://tv.ttk.mx:9193
+#EXTINF:-1,Киномикс
+http://tv.ttk.mx:9199
+#EXTINF:-1,А1
+http://tv.ttk.mx:9155
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/115.png",А2
+http://tv.ttk.mx:9156
+#EXTINF:-1,TV1000
+http://tv.ttk.mx:9181
+#EXTINF:-1,TV1000 Action
+http://tv.ttk.mx:9182
+#EXTINF:-1,TV1000 Русское Кино
+http://tv.ttk.mx:9183
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/25.png",НТВ-хит
+http://tv.ttk.mx:9173
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/29-1.png",Театр
+http://tv.ttk.mx:9061
+
+#EXTGRP:МУЗЫКА
+#EXTINF:-1,RU.TV
+http://tv.ttk.mx:9089
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/79.png",ТНТ-Музыка
+http://tv.ttk.mx:9023
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/75.png",О!2
+http://tv.ttk.mx:9059
+#EXTINF:-1,Шансон
+http://tv.ttk.mx:9062
+#EXTINF:-1 tvg-logo="https://tavrida-telecom.ru/wp-content/uploads/2025/02/80.png",Восток ТВ
+http://tv.ttk.mx:9064
